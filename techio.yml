@@ -4,34 +4,34 @@ title : Hackmyfortress - Training Center
 plan:
   - title: Bienvenue # Set the page title (only displayed if your contribution has several pages)
     statement: markdowns/welcome.md # Set the file path to the page content
-  - title: Le cours
-    statement: markdowns/fr/training_fr.md
-  - title: Démarrer
-    statement: markdowns/fr/starting_fr.md
-  - title: Ordinateur
-    statement: markdowns/fr/computer_fr.md
-  - title: Protocoles
-    statement: markdowns/fr/protocol_fr.md
+  - title: The course
+    statement: markdowns/fr/training_en.md
+  - title: Starting
+    statement: markdowns/fr/starting_en.md
+  - title: Computer
+    statement: markdowns/fr/computer_en.md
+  - title: Protocols
+    statement: markdowns/fr/protocol_en.md
   - title: Communication
-    statement: markdowns/fr/communication_fr.md
-  - title: Coder
-    statement: markdowns/fr/coding_fr.md
-  - title: Algorithmie
-    statement: markdowns/fr/algorithm_fr_v2.md
-  - title: Compilation et interprétation
-    statement: markdowns/fr/compiled_fr.md
-  - title: Exploiter
-    statement: markdowns/fr/exploiting_fr.md
-  - title: Injection SQL
-    statement: markdowns/fr/hacking_sql_fr.md
-  - title: Faille XSS
-    statement: markdowns/fr/xss_fr.md
-  - title: Faille include
-    statement: markdowns/fr/include_fr.md
-  - title: Upload de fichier
-    statement: markdowns/fr/file_upload_fr.md
-  - title: Faille Humaine
-    statement: markdowns/fr/se_fr.md
+    statement: markdowns/fr/communication_en.md
+  - title: Codin
+    statement: markdowns/fr/coding_en.md
+  - title: Algorithm
+    statement: markdowns/fr/algorithm_en_v2.md
+  - title: Compilation and interpretation
+    statement: markdowns/fr/compiled_en.md
+  - title: Exploitin
+    statement: markdowns/fr/exploiting_en.md
+  - title: SQL Injection
+    statement: markdowns/fr/hacking_sql_en.md
+  - title: XSS vulnerability
+    statement: markdowns/fr/xss_en.md
+  - title: Include vulnerability
+    statement: markdowns/fr/include_en.md
+  - title: File upload
+    statement: markdowns/fr/file_upload_en.md
+  - title: Human vulnerability
+    statement: markdowns/fr/se_en.md
   
 projects:
 
