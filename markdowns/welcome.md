@@ -1,5 +1,17 @@
-# Bienvenue Dans le Hacking Training Center officiel du challenge Hackmyfortress.com!
+# Welcome in the Hackmyfortress.com's official Hacking Training Center!
 
-Le challenge de hacking hackmyfortress propose de fortes récompenses à ceux qui réussiront à casser ses défenses.
+The Hackmyfortress challenge offers rewards to those who will breah his defenses.
 
-Le Hacking Training Center est fait pour ceux qui ne savent pas par où commencer.
+This Hacking Training Center is made for those who want to learn how to hack. 
+
+# The challenge
+
+The challenge is often updated here : http://hackmyfortress.com
+
+# Hackmyfortress - Live ! 2017
+
+We are preparing a big live hacking challenge in Montpellier - France. More informations here : http://hackmyfortress.events
+
+# Participate
+
+This online course is open to contributors : don't hesitate to help us here : https://github.com/adrien-thierry/hmf-training-en
