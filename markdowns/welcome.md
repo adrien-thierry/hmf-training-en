@@ -11,3 +11,7 @@ The challenge is often updated here : http://hackmyfortress.com
 # Hackmyfortress - Live ! 2017
 
 We are preparing a big live hacking challenge in Montpellier - France. More informations here : http://hackmyfortress.events
+
+# Participate
+
+This online course is open to contributors : don't hesitate to help us here : https://github.com/adrien-thierry/hmf-training-en
