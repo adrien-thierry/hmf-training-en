@@ -17,7 +17,7 @@ plan:
   - title: Codin
     statement: markdowns/en/coding_en.md
   - title: Algorithm
-    statement: markdowns/en/algorithm_en_v2.md
+    statement: markdowns/en/algorithm_v2_en.md
   - title: Compilation and interpretation
     statement: markdowns/en/compiled_en.md
   - title: Exploitin
