@@ -13,13 +13,13 @@ plan:
     statement: markdowns/en/protocol_en.md
   - title: Communication
     statement: markdowns/en/communication_en.md
-  - title: Codind
+  - title: Coding
     statement: markdowns/en/coding_en.md
   - title: Algorithms
     statement: markdowns/en/algorithm_v2_en.md
   - title: Compilation and interpretation
     statement: markdowns/en/compiled_en.md
-  - title: Exploitin
+  - title: Exploiting
     statement: markdowns/en/exploiting_en.md
   - title: SQL Injection
     statement: markdowns/en/hacking_sql_en.md
