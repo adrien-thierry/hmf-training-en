@@ -13,9 +13,9 @@ plan:
     statement: markdowns/en/protocol_en.md
   - title: Communication
     statement: markdowns/en/communication_en.md
-  - title: Codin
+  - title: Codind
     statement: markdowns/en/coding_en.md
-  - title: Algorithm
+  - title: Algorithms
     statement: markdowns/en/algorithm_v2_en.md
   - title: Compilation and interpretation
     statement: markdowns/en/compiled_en.md
@@ -27,7 +27,7 @@ plan:
     statement: markdowns/en/xss_en.md
   - title: Include vulnerability
     statement: markdowns/en/include_en.md
-  - title: File upload
+  - title: File upload vulnerability
     statement: markdowns/en/file_upload_en.md
   - title: Human vulnerability
     statement: markdowns/en/se_en.md
