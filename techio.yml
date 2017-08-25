@@ -5,33 +5,33 @@ plan:
   - title: Bienvenue # Set the page title (only displayed if your contribution has several pages)
     statement: markdowns/welcome.md # Set the file path to the page content
   - title: The course
-    statement: markdowns/fr/training_en.md
+    statement: markdowns/en/training_en.md
   - title: Starting
-    statement: markdowns/fr/starting_en.md
+    statement: markdowns/en/starting_en.md
   - title: Computer
-    statement: markdowns/fr/computer_en.md
+    statement: markdowns/en/computer_en.md
   - title: Protocols
-    statement: markdowns/fr/protocol_en.md
+    statement: markdowns/en/protocol_en.md
   - title: Communication
-    statement: markdowns/fr/communication_en.md
+    statement: markdowns/en/communication_en.md
   - title: Codin
-    statement: markdowns/fr/coding_en.md
+    statement: markdowns/en/coding_en.md
   - title: Algorithm
-    statement: markdowns/fr/algorithm_en_v2.md
+    statement: markdowns/en/algorithm_en_v2.md
   - title: Compilation and interpretation
-    statement: markdowns/fr/compiled_en.md
+    statement: markdowns/en/compiled_en.md
   - title: Exploitin
-    statement: markdowns/fr/exploiting_en.md
+    statement: markdowns/en/exploiting_en.md
   - title: SQL Injection
-    statement: markdowns/fr/hacking_sql_en.md
+    statement: markdowns/en/hacking_sql_en.md
   - title: XSS vulnerability
-    statement: markdowns/fr/xss_en.md
+    statement: markdowns/en/xss_en.md
   - title: Include vulnerability
-    statement: markdowns/fr/include_en.md
+    statement: markdowns/en/include_en.md
   - title: File upload
-    statement: markdowns/fr/file_upload_en.md
+    statement: markdowns/en/file_upload_en.md
   - title: Human vulnerability
-    statement: markdowns/fr/se_en.md
+    statement: markdowns/en/se_en.md
   
 projects:
 
