@@ -34,7 +34,7 @@ plan:
   
 projects:
 
-  exo1:
+ exo1:
     root: exo-project
     runner: python:3
 
@@ -46,6 +46,22 @@ projects:
     root: sql_exo
     runner: python:3
 
-  #exo3:
-    #root: nodejs-project
-    #runner: linode/lamp
+  exo3:
+    root: nodejs-project/page
+    runner: florianbord2/fortressjs
+
+  sqli:
+    root: code/sqli
+    runner: debian:latest
+
+  compilation:
+    root: code/compilation
+    runner: debian:latest
+
+  interpreter:
+    root: code/interpreter
+    runner: debian:latest
+
+  interpreter_php:
+    root: code/interpreter_php
+    runner: debian:latest
