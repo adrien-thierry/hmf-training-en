@@ -31,10 +31,10 @@ plan:
     statement: markdowns/en/file_upload_en.md
   - title: Human vulnerability
     statement: markdowns/en/se_en.md
-  
+
 projects:
 
- exo1:
+  exo1:
     root: exo-project
     runner: python:3
 
