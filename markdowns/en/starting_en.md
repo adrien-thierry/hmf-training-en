@@ -8,6 +8,8 @@ Each part is important when we talk about hacking : they all have their vulnerab
 * SQL Injection : Software
 * Social Engineering : Human
 
+![Alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training/master/src/software-hardware-user.png "Sofware")
+
 An illustration with Hackmyfortress.com :
 
 * Hardware : servers where are the site and the database
@@ -35,6 +37,10 @@ The first real computer was the big ENIAC (Electrical Numerical Integrator and C
 -[ ] 42kg
 -[x] 30 000kg
 -[ ] 2407kg
+
+::: Curious ?
+![alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training/master/src/eniac.jpg "eniac")
+:::
 
 Around the 1950s appeared the transistor : more efficient and smaller, it has replaced big lamp and is present in radios, computers, amplifier ...
 

@@ -8,20 +8,20 @@ Let us take as an example a basic language, C.
 
 To start doing the operation you will need variables, example:
 
-```int    A;``` 
+```int    A;```
 
-I get a variable of type ** int ** that gets ** A **. Now I will assign a value to my variables that I just declared, for example:
+I get a variable of type ** int ** named ** A **. Now I will assign a value to the variable that I just declared, for example:
 
 ```
 int    A;
 A = 42;
 ```
 
-I can also assign a value to my variable on the line where I declare it, for example:
+I can also assign a value to the variable on the line where I declare it, for example:
 
 ```int    A = 42;```
 
-There are different types of variables, an int can store integer values ​​** - 2147483648 ** to ** 2147483647 **. To store a larger value you will need to change the type of variable.
+There are different types of variables, an **int** can store integer values ​​** -2147483648 ** to ** 2147483647 **. To store a larger value you will need to change the type of variable.
 
 Now that we have variables, let's talk about the next tools.
 
@@ -39,11 +39,11 @@ while (var < 42)
  	}
 ```
 
-Here ** as long as ** my varibale ** var ** is strictly inferior to 42, one carries out the instructions in the loop. So here the loop will be repeated 42 times. Once the condition is fulfilled the code reading resumes under the loop.
+Here **while** my variable ** var ** is strictly inferior to 42, we carry out the instructions in the loop. So here the loop will be repeated 42 times. Once the condition is fulfilled the code reading resumes under the loop.
 
 ## **For**
 
-The "for" loop allows you to repeat one or more statements as long as a test is verified. The most used "for" loop consists of having a variable, "i", initialized to 0 and repeating an instruction as long as "i" is less than a number such that 3. The instruction contained in the "for" loop "Will be repeated 3 times. (Once at 0, once at 1, then at 2, then "i" is equal to 3, then "i" does not check the inferiority condition at 3). Example:
+The "for" loop allows you to repeat one or more statements as long as a test is verified. The most used "for" loop consists of having a variable, "i", initialized to 0 and repeating an instruction as long as "i" is less than a number such as 3. The instruction contained in the "for" loop will be repeated 3 times. (Once at 0, once at 1, then at 2, then "i" is equal to 3, then "i" does not check the inferiority condition at 3). Example:
 
 ```for(var i = 0; i < 3; i++)
 {
@@ -53,7 +53,7 @@ The "for" loop allows you to repeat one or more statements as long as a test is 
 
 ## **if, else if, else**
 
-The si is a condition, for example:
+The if is a condition, for example:
 
 ```
 int     var = 2;
@@ -125,13 +125,13 @@ while i < 10
 	i++;
 ```
 
-As you saw it all resembled.
+As you saw, they're all the same.
 
 @[Do an "Hello World"]({"stubs": ["for_user.c"], "project":"exo1", "command": "python test_for_user.py"})
 
 It was simple :)
-Go to a more complex, I ask you to produce code that will display the alphabet. "Printf (" abcdefghijklmnopqrstuvwxyz ");" You say ? ** Interdiction to use the printf ** function. You will use a ** while loop **, ** a variable ** and the ** my_putchar () ** function that displays the parameter you pass to it between the parentheses.
-To succeed it's exercise you'll need to look at the ** ascii table **. In this table you will see that decimal value ​​represent characters. Take a look [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
+Go to a more complex, I ask you to produce code that will display the alphabet. "printf (" abcdefghijklmnopqrstuvwxyz ");" You say ? ** Interdiction to use the printf ** function. You will use a ** while loop **, ** a variable ** and the ** my_putchar () ** function that displays the parameter you pass to it between the parentheses.
+To succeed at this exercise you'll need to look at the ** ascii table **. In this table you will see that decimal value ​​representing characters. Take a look [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
 
 ?[Which decimal value is the character 'a' ?]
 - [ ] 65
@@ -142,7 +142,7 @@ To succeed it's exercise you'll need to look at the ** ascii table **. In this t
 @[Write a function that will display the alphabet]({"stubs": ["for_user.c"], "project":"exo1bis", "command": "python test_for_user.py"})
 
 ::: A clue ?
-Suppose that I declare a variable of type ** int ** which sapelle ** i **, I say that "i = 97".
+Suppose that I declare a variable of type ** int ** which is named ** i **, I say that "i = 97".
 
 ```
 int i;
@@ -150,6 +150,6 @@ i = 97;
 my_putchar(i);
 ```
 
-The variable i contains a decimal value which is worth the character 'a' so I will display a 'a'
+The variable i contains a decimal value which is equal to the character 'a' so I will display 'a'
 
 :::
