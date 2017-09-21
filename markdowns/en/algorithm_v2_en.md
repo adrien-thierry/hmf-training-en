@@ -10,7 +10,7 @@ To start doing the operation you will need variables, example:
 
 ```int    A;```
 
-I get a variable of type ** int ** named ** A **. Now I will assign a value to the variable that I just declared, for example:
+I get a variable of type **int** named **A**. Now I will assign a value to the variable that I just declared, for example:
 
 ```
 int    A;
@@ -21,13 +21,13 @@ I can also assign a value to the variable on the line where I declare it, for ex
 
 ```int    A = 42;```
 
-There are different types of variables, an **int** can store integer values ​​** -2147483648 ** to ** 2147483647 **. To store a larger value you will need to change the type of variable.
+There are different types of variables, an **int** can store integer values ​​**-2147483648** to **2147483647**. To store a larger value you will need to change the type of variable.
 
 Now that we have variables, let's talk about the next tools.
 
 ## **while**
 
-The 'while' loop will repeat operations ** as long as ** ...
+The 'while' loop will repeat operations **as long as** ...
 Example:
 
 ```
@@ -39,7 +39,7 @@ while (var < 42)
  	}
 ```
 
-Here **while** my variable ** var ** is strictly inferior to 42, we carry out the instructions in the loop. So here the loop will be repeated 42 times. Once the condition is fulfilled the code reading resumes under the loop.
+Here **while** my variable **var** is strictly inferior to 42, we carry out the instructions in the loop. So here the loop will be repeated 42 times. Once the condition is fulfilled the code reading resumes under the loop.
 
 ## **For**
 
