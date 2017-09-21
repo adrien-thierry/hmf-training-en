@@ -21,7 +21,7 @@ I can also assign a value to the variable on the line where I declare it, for ex
 
 ```int    A = 42;```
 
-There are different types of variables, an **int** can store integer values ​​**-2147483648** to **2147483647**. To store a larger value you will need to change the type of variable.
+There are different types of variables, an **int** can store integer values ​​-2147483648 to 2147483647. To store a larger value you will need to change the type of variable.
 
 Now that we have variables, let's talk about the next tools.
 
