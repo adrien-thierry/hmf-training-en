@@ -11,7 +11,7 @@ The purpose of this vulnerability is to upload a file with an unauthorized exten
 
 There are several methods for passing protection, if there is protection.
 
-You can alter the file at times of upload with '** Tamper Data **', a firefox browser tool. Thanks to this tool you will be able to upload the file as an image.
+You can alter the file at times of upload with '**Tamper Data**', a firefox browser tool. Thanks to this tool you will be able to upload the file as an image.
 Once the file upload you no longer have to acceder it and execute it with the URL.
 
 Second method, double exention.
