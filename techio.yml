@@ -47,7 +47,7 @@ projects:
     runner: python:3
 
   exo3:
-    root: ncode/odejs-project/page
+    root: code/odejs-project/page
     runner: florianbord2/fortressjs
 
   sqli:
