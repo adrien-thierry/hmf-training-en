@@ -131,7 +131,7 @@ As you saw, they're all the same.
 
 It was simple :)
 Go to a more complex, I ask you to produce code that will display the alphabet. "printf (" abcdefghijklmnopqrstuvwxyz ");" You say ? **Interdiction to use the printf** function. You will use a **while loop**, **a variable** and the **my_putchar ()** function that displays the parameter you pass to it between the parentheses.
-To succeed at this exercise you'll need to look at the ** ascii table **. In this table you will see that decimal value ​​representing characters. Take a look [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
+To succeed at this exercise you'll need to look at the **ascii table**. In this table you will see that decimal value ​​representing characters. Take a look [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
 
 ?[Which decimal value is the character 'a' ?]
 - [ ] 65
