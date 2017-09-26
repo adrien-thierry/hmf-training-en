@@ -50,3 +50,8 @@ WEB WS-* Services refers to the software implementation of WS- * specifications 
 -[x] DNS
 -[ ] POSTAL
 -[ ] POP
+
+::: A quick summary?
+What it is important to understand, that is, you are able to succeed in circumventing a security, you must know each of its cogs.
+Understand how it works.
+:::
