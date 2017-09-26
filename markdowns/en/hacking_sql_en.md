@@ -38,7 +38,7 @@ So the passwords are no longer checked!
 | Matrix      | 1999     |   Science-fiction |
 | Les Goonies |  1985 |    Ation |
 
-The query in the exercise below can be translated as: "Select ** all ** in the column ** title ** where the genre is ** adventure **". Make sure to change the request so that all genres are selected.
+The query in the exercise below can be translated as: "Select **all** in the column **title** where the genre is **adventure**". Make sure to change the request so that all genres are selected.
 
 @[Show all film!]({"stubs": ["for_user_sql.txt"], "command": "python tester_sql.py", "project": "exo2"})
 

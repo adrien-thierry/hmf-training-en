@@ -10,7 +10,7 @@ To start doing the operation you will need variables, example:
 
 ```int    A;```
 
-I get a variable of type ** int ** named ** A **. Now I will assign a value to the variable that I just declared, for example:
+I get a variable of type **int** named **A**. Now I will assign a value to the variable that I just declared, for example:
 
 ```
 int    A;
@@ -21,13 +21,13 @@ I can also assign a value to the variable on the line where I declare it, for ex
 
 ```int    A = 42;```
 
-There are different types of variables, an **int** can store integer values ​​** -2147483648 ** to ** 2147483647 **. To store a larger value you will need to change the type of variable.
+There are different types of variables, an **int** can store integer values ​​-2147483648 to 2147483647. To store a larger value you will need to change the type of variable.
 
 Now that we have variables, let's talk about the next tools.
 
 ## **while**
 
-The 'while' loop will repeat operations ** as long as ** ...
+The 'while' loop will repeat operations **as long as** ...
 Example:
 
 ```
@@ -39,7 +39,7 @@ while (var < 42)
  	}
 ```
 
-Here **while** my variable ** var ** is strictly inferior to 42, we carry out the instructions in the loop. So here the loop will be repeated 42 times. Once the condition is fulfilled the code reading resumes under the loop.
+Here **while** my variable **var** is strictly inferior to 42, we carry out the instructions in the loop. So here the loop will be repeated 42 times. Once the condition is fulfilled the code reading resumes under the loop.
 
 ## **For**
 
@@ -64,7 +64,7 @@ if (var == 2)
 	}
 ```
 
-Here the statements in the if (between the brackets) will only be executed if the condition is true, ** printf () ** is a function that allows to display text.
+Here the statements in the if (between the brackets) will only be executed if the condition is true, **printf ()** is a function that allows to display text.
 So in this case my program will show "var = 2".
 These are examples of conditions that can be used in the following conditions:
 
@@ -130,8 +130,15 @@ As you saw, they're all the same.
 @[Do an "Hello World"]({"stubs": ["for_user.c"], "project":"exo1", "command": "python test_for_user.py"})
 
 It was simple :)
-Go to a more complex, I ask you to produce code that will display the alphabet. "printf (" abcdefghijklmnopqrstuvwxyz ");" You say ? ** Interdiction to use the printf ** function. You will use a ** while loop **, ** a variable ** and the ** my_putchar () ** function that displays the parameter you pass to it between the parentheses.
-To succeed at this exercise you'll need to look at the ** ascii table **. In this table you will see that decimal value ​​representing characters. Take a look [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
+Go to a more complex !
+I ask you to produce code that will display the alphabet.
+`"printf (" abcdefghijklmnopqrstuvwxyz ");` You say ?
+**Interdiction to use the printf** function. You will use :
+- **while loop**
+- **a variable**
+- the **my_putchar ()** (function that displays the parameter you pass to it between the parentheses.)
+
+To succeed at this exercise you'll need to look at the **ascii table**. In this table you will see that decimal value ​​representing characters. Take a look [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
 
 ?[Which decimal value is the character 'a' ?]
 - [ ] 65
@@ -142,7 +149,7 @@ To succeed at this exercise you'll need to look at the ** ascii table **. In thi
 @[Write a function that will display the alphabet]({"stubs": ["for_user.c"], "project":"exo1bis", "command": "python test_for_user.py"})
 
 ::: A clue ?
-Suppose that I declare a variable of type ** int ** which is named ** i **, I say that "i = 97".
+Suppose that I declare a variable of type **int** which is named **i**, I say that "i = 97".
 
 ```
 int i;

@@ -11,12 +11,12 @@ The purpose of this vulnerability is to upload a file with an unauthorized exten
 
 There are several methods for passing protection, if there is protection.
 
-You can alter the file at times of upload with '** Tamper Data **', a firefox browser tool. Thanks to this tool you will be able to upload the file as an image.
+You can alter the file at times of upload with '**Tamper Data**', a firefox browser tool. Thanks to this tool you will be able to upload the file as an image.
 Once the file upload you no longer have to acceder it and execute it with the URL.
 
 Second method, double exention.
 
-Some site checks ** the extension of the file ** you want to upload, there is a means to bypass this security, ** double extension **.
+Some site checks **the extension of the file** you want to upload, there is a means to bypass this security, **double extension**.
 The idea is to integrate PHP code into a .gif file.
 First, create a .gif file with paint for example, then open file with a hexadecimal editor. Add your PHP code in the .gif file, add the .php extension, which we do "file.php.gif".
 Uploading will be done without worries!

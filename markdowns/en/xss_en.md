@@ -58,7 +58,7 @@ My comment will be "I'm a trol", and whenever the page is loaded, a dialog will 
 
 # The solution to protect yourself
 
-A function exists in PHP to solve problem, ** htmlspecialchars () **.
+A function exists in PHP to solve problem, **htmlspecialchars ()**.
 It allows you to replace special characters with HTML entities. Example:
 
 * The symbol & becomes \&amp;
