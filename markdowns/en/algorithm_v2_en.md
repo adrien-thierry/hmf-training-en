@@ -153,3 +153,13 @@ my_putchar(i);
 The variable i contains a decimal value which is equal to the character 'a' so I will display 'a'
 
 :::
+
+:::Solution
+ ```
+	int i = 'a';
+	while(i <= 'z')
+	{
+		my_putchar(i);
+		i++;
+	}
+ ```
