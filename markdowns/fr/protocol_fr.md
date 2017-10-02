@@ -49,3 +49,8 @@ Les Services WEB WS-* désignent l'implémentation logicielle des spécification
 -[x] DNS
 -[ ] POSTAL
 -[ ] POP
+
+::: Un rapide résumer ?
+Ce qu'il est important de comprendre c'est que si vous vouliez réussir à contourner une sécuriser, il vous faut connaitre chacun de ses rouages.
+Comprendre comment elle fonctionne.
+:::

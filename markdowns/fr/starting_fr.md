@@ -8,6 +8,8 @@ Tous les élements sont importants quand on parle de hacking : ils ont tous leur
 * SQL Injection : Software
 * Social Engineering : Humain
 
+![Alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training/master/src/software-hardware-user.png "Sofware")
+
 Une illustration avec Hackmyfortress.com
 
 * Hardware : les serveurs où sont le site et la base de données
@@ -29,13 +31,17 @@ La naissance des ordinateurs provient de Turing et de la célèbre Machine de Tu
 
 ## Mainframe
 
-Le premier véritable ordinateur était la grande machine ENIAC (Electrical Numerical Integrator and Calculator), créée par John W. Mauchly et J. Presper Eckert à l'Université de Pennsylvanie. Il a utilisé des mots de dix chiffres décimaux au lieu de binaire. La machine ENIAC a utilisé plus de 15 000 tubes à vide (également appelés valves thermioniques, ou lampes). ENIAC a été Turing-complet: il peut être programmé pour résoudre tous les problèmes. Les tubes à vide sont fragiles et très chauds quand ENIAC fonctionne, donc, lorsqu'un insecte brûle sur une lampe, la lampe éclate. Ils appellent ça: un bug . Les instructions exécutables des programmes ENIAC ont été stockées dans des unités séparées, qui ont été reliées pour former une route.
+Le premier véritable ordinateur était la grande machine ENIAC (Electrical Numerical Integrator and Calculator), crée par John W. Mauchly et J. Presper Eckert à l'Université de Pennsylvanie. Il a utilisé des mots de dix chiffres décimaux au lieu de binaire. La machine ENIAC a utilisé plus de 15 000 tubes à vide (également appelés valves thermioniques, ou lampes). ENIAC a été Turing-complet: il peut être programmé pour résoudre tous les problèmes. Les tubes à vide sont fragiles et très chauds quand ENIAC fonctionne, donc, lorsqu'un insecte brûle sur une lampe, la lampe éclate. Ils appellent ça: un bug . Les instructions exécutables des programmes ENIAC ont été stockées dans des unités séparées, qui ont été reliées pour former une route.
 
 ?[Quels est le poids de l'ENIAC ?]
 -[ ] 6kg
 -[ ] 42kg
--[x] 30 000kg 
+-[x] 30 000kg
 -[ ] 2407kg
+
+::: Curieux ?
+![alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training/master/src/eniac.jpg "eniac")
+:::
 
 Autour des années 1950 est apparu le transistor: plus efficace et plus petit, il a remplacé les grosses lampes et est présent dans les radios, ordinateurs, amplificateur ...
 
@@ -74,6 +80,3 @@ Deux arrestations majeures dans les années 90. En 1994 : le mathématicien russ
 ## Les années 2000
 
 Les années 2000 continuent d’être marqué par la cybercriminalité. Cependant, les hackers permettent de faire sauter des verrous industriels, comme les DVD ou les smartphones. Le développement de groupes politisés qui utilisent les techniques des hackers pour leurs actions militantes est une autre tendance des années 2000. C’est le cas du très controversé WikiLeaks, un site qui permet de rendre public des fuites d’informations tout en assurant la confidentialité des sources. Un de ses fondateurs n’est autre que Julian Assange, autrefois connu sous le pseudo 'Mendax', hacker du groupe 'International Subversives'.
-
-
-

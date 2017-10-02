@@ -1,6 +1,6 @@
 # Alghorithm
 
-L'alghorithmie est une suite d'opération ou d'instruction permmettant de résoudre un probléme ou d'obtenir un résultat.
+L'alghorithmie est une suite d'opérations ou d'instructions permettant de résoudre un probléme ou d'obtenir un résultat.
 
 Prenons comme exemple un language de base, le C.
 
@@ -8,10 +8,10 @@ Prenons comme exemple un language de base, le C.
 
 Pour commencer a faire des opération il va vous falloir des variables, exemple :
 
-```int    A;``` 
+```int    A;```
 
 j'obtiens une variable de type **int** qui se nome **A**.
-Mintenant je vais assigner une valeur a ma variables que je viens de déclarer, exemple : 
+Mintenant je vais assigner une valeur a ma variables que je viens de déclarer, exemple :
 
 ```
 int    A;
@@ -22,7 +22,7 @@ Je peut aussi assigné une valeur a ma variable sur la ligne ou je la déclare, 
 
 ```int    A = 42;```
 
-Il existe différents type de variables, un int pourra stocker des entier de valeur **–2147483648** à **2147483647**. Pour stocker une valeur plus grande il vous faudra changer de type de variable.
+Il existe différents type de variables, un **int** pourra stocker des entier de valeur **–2147483648** à **2147483647**. Pour stocker une valeur plus grande il vous faudra changer de type de variable.
 
 Mintenant que nous avont des variables, parlons des prochain outils.
 
@@ -36,7 +36,7 @@ int    var = 0;
 
 while (var < 42)
 	{
-		var = var + 1;
+	var = var + 1;
  	}
 ```
 
@@ -44,7 +44,11 @@ Ici **tant que** ma varibale **var** est strictement infériuer a 42, on effectu
 
 ## La boucle **pour** (For)
 
-La boucle "for" vous permet de répéter une ou plusieurs instructions tant qu'un test est vérifié. La boucle "for" la plus utilisée consiste à avoir une variable, "i", initialisée à 0 et répéter une instruction tant que "i" est inférieur à un nombre tel que 3. Ainsi, l'instruction contenue dans la boucle "for" sera répété 3 fois. (Une fois à 0, une fois à 1, puis à 2, alors "i" est égal à 3, alors "i" ne vérifie pas la condition d'infériorité à 3). Exemple :
+La boucle "for" vous permet de répéter une ou plusieurs instructions tant qu'un test est vérifié.
+
+La boucle "for" la plus utilisée consiste à avoir une variable, "i", initialisée à 0 et répéter une instruction tant que "i" est inférieur à un nombre tel que 3, par exemple.
+
+Ainsi, l'instruction contenue dans la boucle "for" sera répété 3 fois. (Une fois à 0, une fois à 1, puis à 2, alors "i" est égal à 3, alors "i" ne vérifie pas la condition d'infériorité à 3). Exemple :
 
 ```for(var i = 0; i < 3; i++)
 {
@@ -65,7 +69,9 @@ if (var == 2)
 	}
 ```
 
-Ici les instruction dans le if (entre les crochet) ne vont s'executer que si la condition est remplie, **printf()** est une fonction qui permet d'afficher du texte.
+Ici les instruction dans le if (entre les crochet) ne vont s'executer que si la condition est remplie.
+**printf()** est une fonction qui permet d'afficher du texte.
+
 Donc dans le cas present mon programme va bien afficher "var vaut bien 2".
 Voila quels que exemples de condition que l'on peut utiliser dans les condition :
 
@@ -125,12 +131,22 @@ while i < 10
 	i++;
 ```
 
-Comme vous le voyait toute se resemble.
+Comme vous le voyez, toute se resemblent.
 
 @[Fait un "Hello World"]({"stubs": ["for_user.c"], "project":"exo1", "command": "python test_for_user.py"})
 
 C'etais simple hien :)
-Passont a plus complexe, je vous demande de produire du code qui va afficher l'alphabet. "printf("abcdefghijklmnopqrstuvwxyz");" me dite vous ? **Interdicton d'utiliser la fonction printf**. Vous aller utiliser une **boucle while**, **une variable** et la fonction **my_putchar()** qui affiche le parametre que vous lui passer entre parenthése.
+Passont a plus complexe !
+Je vous demande de produire du code qui va afficher l'alphabet.
+
+`printf("abcdefghijklmnopqrstuvwxyz");` me dite vous ?
+
+**Interdicton d'utiliser la fonction printf**.
+Vous aller utiliser :
+- une **boucle while**
+- **une variable**
+- la fonction **my_putchar()** (qui affiche le parametre que vous lui passer entre parenthése)
+
 Pour réussir c'est exercise vous aller avoir besoin de regarder le **tableau ascii**. Dans ce tableau vous aller voir que des valeurs decimale represente des caractéres. jettez y un coup d'oeil [MAN ASCII](http://www.linux-france.org/article/man-fr/man7/ascii-7.html)
 
 ?[Quels valeur decimal vaut le caractére 'a' ?]
@@ -142,7 +158,7 @@ Pour réussir c'est exercise vous aller avoir besoin de regarder le **tableau as
 @[Ecris une fonction qui va afficher l'alphabet]({"stubs": ["for_user.c"], "project":"exo1bis", "command": "python test_for_user.py"})
 
 ::: Un indice ?
-Supposont que je déclare une variable de type **int** qui sapelle **i**, je dit que "i = 97". 
+Supposont que je déclare une variable de type **int** qui sapelle **i**, je dit que "i = 97".
 
 ```
 int i;
@@ -150,5 +166,15 @@ i = 97;
 my_putchar(i);
 ```
 
-La variable i contiens une valeur decimal qui vaut le caractere 'a' donc je vais bien afficher un 'a'
+La variable i contient une valeur décimal qui vaut le caractère 'a' donc je vais bien afficher un 'a'
 :::
+
+:::Solution
+ ```
+	int i = 'a'; // déclaration de la varibale et je lui donne la valueur 'a'
+	while(i <= 'z') // tant que i (qui vaut le caractére 'a') est inférieur ou egal au caractére 'z'
+	{
+		my_putchar(i); // afficher i
+		i++; // incrémenter i
+	}
+ ```
