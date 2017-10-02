@@ -15,3 +15,5 @@ We are preparing a big live hacking challenge in Montpellier - France. More info
 # Participate
 
 This online course is open to contributors : don't hesitate to help us here : https://github.com/adrien-thierry/hmf-training-en
+Contibutors : Adrien Thierry, Florian Bord
+![alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training/master/src/fortress.jpg "Fortress")
