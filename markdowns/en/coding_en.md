@@ -20,9 +20,9 @@ From this C was born the C ++. The c ++ is an improved version and orient object
 
 ### Another important language
 You have to have what basic in it is language: HTML, PHP...
-When you want to attack any city on the web.
+When you want to attack any site on the web.
 The HyperText Markup Language, typically abbreviated HTML, is a markup language to write hypertext, hence its name.
-It is he who will define the structure of the city.
+It is he who will define the structure of the site.
 PHP is a language usually integrated with HTML to make it more alive, that interactions can be made between the user and the page.
 
 ## Some generalities
