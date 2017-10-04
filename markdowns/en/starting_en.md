@@ -74,7 +74,7 @@ In 1988 the worm Morris spreads on ARPAnet and infects more than 6000 computers.
 
 With the internet, cybercrime is born and hackers are divided. On the one hand the 'black hat', often criminal activities and on the other the 'white hat' with no intention to harm and committed to making public security flaws.
 
-Two major arrests in the 1990s. In 1994: Russian mathematician Vladimir Levin subtracts $ 10 million from Citybank, penetrating into the international banking network SWIFT. He will be sentenced to three years in prison. In 1995, Kevin Mitnick was arrested by the FBI. On the run since 1989, he is accused of stealing software and intruding into protected systems. The damage is estimated at more than $ 80 million. He will be sentenced to 5 years' imprisonment. When it is released, it is forbidden to access telephones, networks and computers.
+Two major arrests in the 1990s. In 1994: Russian mathematician Vladimir Levin subtracts $ 10 million from Citybank, penetrating into the international banking network SWIFT. He was sentenced to three years in prison. In 1995, Kevin Mitnick was arrested by the FBI. On the run since 1989, he is accused of stealing software and intruding into protected systems. The damage is estimated at more than $ 80 million. He was sentenced to 5 years' imprisonment. When he was released, he was forbidden to access telephones, networks and computers.
 
 ## 2000s
 
