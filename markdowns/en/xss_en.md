@@ -53,7 +53,7 @@ Let's say I leave a comment that looks like this:
 
 My comment will be "I'm a trol", and whenever the page is loaded, a dialog will appear with inside "I'm a big trol".
 
-// here exo dvwa server //
+
 
 
 # The solution to protect yourself
