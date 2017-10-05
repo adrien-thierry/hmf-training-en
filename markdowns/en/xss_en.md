@@ -54,7 +54,7 @@ Let's say I leave a comment that looks like this:
 My comment will be "I'm a trol", and whenever the page is loaded, a dialog will appear with inside "I'm a big trol".
 
 
-
+@[Try to add a alert script like above]({ "stubs": [], "project":"exo3", "command": "./page.sh" })
 
 # The solution to protect yourself
 
