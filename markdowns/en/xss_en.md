@@ -48,7 +48,7 @@ It is very common to find a space dedicated to comments on the internet, a place
 
 Let's say I leave a comment that looks like this:
 
-![alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training/master/src/xss_perma2.PNG "xss_perma")
+![alt text](https://raw.githubusercontent.com/adrien-thierry/hmf-training-en/master/src/Capture2.PNG "xss")
 
 
 My comment will be "I'm a trol", and whenever the page is loaded, a dialog will appear with inside "I'm a big trol".
