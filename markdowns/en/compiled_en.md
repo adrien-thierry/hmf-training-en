@@ -37,6 +37,6 @@ An exemple in python, an interpreter langauge, use thaht command :
 We skip the compiling step, python read the code and execute directly.
 
 An exemple en ruby, use that command for running the program :
- `ruby jello.rb`
+ `ruby hello.rb`
 
  @[Uncomment code  and run the program]({"project":"interpreter_php", "stubs": ["hello.rb"], "command": "./install.sh"})
