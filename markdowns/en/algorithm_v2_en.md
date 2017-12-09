@@ -45,7 +45,8 @@ Here **while** my variable **var** is strictly inferior to 42, we carry out the 
 
 The "for" loop allows you to repeat one or more statements as long as a test is verified. The most used "for" loop consists of having a variable, "i", initialized to 0 and repeating an instruction as long as "i" is less than a number such as 3. The instruction contained in the "for" loop will be repeated 3 times. (Once at 0, once at 1, then at 2, then "i" is equal to 3, then "i" does not check the inferiority condition at 3). Example:
 
-```for(var i = 0; i < 3; i++)
+```
+for(var i = 0; i < 3; i++)
 {
   console.log(i); // 0, 1, 2
 }
